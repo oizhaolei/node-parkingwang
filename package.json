@@ -1,0 +1,26 @@
+{
+  "name": "node-parkingwang",
+  "version": "0.1.0",
+  "homepage": "https://github.com/oizhaolei/node-parkingwang#readme",
+  "author": {
+    "name": "oizhaolei",
+    "email": "oizhaolei@gmail.com",
+    "url": "oizhaolei.github.io"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oizhaolei/node-parkingwang.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.2.2"
+  }
+}
